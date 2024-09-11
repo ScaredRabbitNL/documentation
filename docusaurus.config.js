@@ -10,7 +10,7 @@ const config = {
   tagline: 'I like coding',
   favicon: 'img/favicon.ico',
   url: `https://${organizationName}.github.io`,
-  baseUrl: `/`,
+  baseUrl: `/${projectName}/`,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
 
